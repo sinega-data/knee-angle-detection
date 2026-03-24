@@ -2,9 +2,6 @@
 
 A real-time computer vision system that detects and measures knee joint angles using MediaPipe Pose estimation and OpenCV.
 
-## Demo
-> Run the system and bend your knee in front of the webcam — the angle updates live on screen.
-
 ## Tech Stack
 - Python 3.x
 - OpenCV
@@ -12,11 +9,16 @@ A real-time computer vision system that detects and measures knee joint angles u
 - NumPy
 
 ## Project Structure
+
 knee-angle-detection/
 ├── main.py
+
 ├── pose_module.py
+
 ├── utils.py
+
 ├── requirements.txt
+
 └── README.md
 
 ## Installation
