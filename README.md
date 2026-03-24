@@ -11,6 +11,7 @@ A real-time computer vision system that detects and measures knee joint angles u
 ## Project Structure
 
 knee-angle-detection/
+
 ├── main.py
 
 ├── pose_module.py
